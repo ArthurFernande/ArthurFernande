@@ -1,7 +1,6 @@
 ### Olá! eu sou o Arthur Fernandes 👋
 
 
-- 🔭 Hoje trabalho com Spring boot
 - 🌱 Estudando TypeScript, e toda a parte de desenvolvimento front-End
 - 😄 Pronouns: ele/dele
 
